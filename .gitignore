@@ -1,0 +1,4 @@
+toy
+*.save
+*.o
+*.out
